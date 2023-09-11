@@ -1,6 +1,6 @@
 {
   "name": "smart-sms-solutions",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Smart-SMS-Solutions sdk - https://developer.smartsmssolutions.com/",
   "main": "build/index.js",
   "types": "types/index.d.ts",

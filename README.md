@@ -1,5 +1,7 @@
 # Smart sms solutions
 
+[Documentation](https://developer.smartsmssolutions.com/)
+
 ## Installation
 
 ```bash
