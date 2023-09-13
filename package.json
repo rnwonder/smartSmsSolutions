@@ -1,6 +1,6 @@
 {
   "name": "smart-sms-solutions",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Smart-SMS-Solutions sdk - https://developer.smartsmssolutions.com/",
   "main": "build/index.js",
   "types": "types/index.d.ts",
@@ -39,8 +39,10 @@
   "license": "MIT",
   "devDependencies": {
     "@types/axios": "^0.14.0",
+    "@types/figlet": "^1.5.6",
     "bun-types": "latest",
     "elysia": "latest",
+    "figlet": "^1.6.0",
     "typescript": "^5.2.2"
   },
   "files": [
