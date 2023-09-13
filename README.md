@@ -51,7 +51,7 @@ const dataProductList = await smartSmsSolutions.getDataProductList(
 
 - takes two arguments
 - `phoneNumber` - The phone number of the user
-- `sort` - The sort order of the list of data products. Can be `undefined` or `SME`
+- `sort` - The sort order of the list of data products. Can be `undefined` or `SME`. If you need more sort options, please open an issue.
 
 ### buyInternetData
 
